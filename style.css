@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: bisque;
+}
+header {
+    background-color:chocolate;
+    padding: 15px;
+    margin: 25px 0px;
+    text-align: center;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+img {
+    width: 200px;
+}
+div {
+    width: 255px;
+    background-color:chocolate;
+    border: 2px solid black;
+    padding: 25px;
+    margin: 15px 20px;
+}
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px;
+}
+p {
+    text-indent: 20px;
+}
